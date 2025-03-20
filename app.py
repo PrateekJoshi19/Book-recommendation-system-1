@@ -4,7 +4,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import streamlit as st
 import re
-import matplotlib.pyplot as plt
 from PIL import Image
 import base64
 import requests
